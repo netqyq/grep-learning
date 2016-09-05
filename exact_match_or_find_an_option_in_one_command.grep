@@ -1,0 +1,4 @@
+# if you want to find "-n" meaning in grep command.
+grep --help | grep "\-n,"
+  -n, --line-number         print line number with output lines
+

@@ -1,0 +1,2 @@
+grep -n word file
+grep -n word file2 file2

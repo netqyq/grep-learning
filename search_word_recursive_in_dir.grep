@@ -1,0 +1,9 @@
+# example 1
+grep "word" . -R -n
+
+# example 2
+cd src_dir
+grep "test_function()" . -R -n
+./path/to/test.c:16:test_function();
+
+
