@@ -1,0 +1,4 @@
+grep -i word file
+word
+WORD
+Word
