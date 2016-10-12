@@ -1,0 +1,6 @@
+
+curl --help | grep -E "\-i"
+查看grep -i 开头的参数
+
+curl --help | grep -E "\-\-data"
+查看grep --data 开头的参数
